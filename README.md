@@ -2,7 +2,7 @@
 
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://tenor.com/uWOUJeRjmCC.gif" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Anuraj;Software+Developer;CS+Graduate+%40+Techno+India+University;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 
