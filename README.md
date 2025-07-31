@@ -10,7 +10,7 @@
 
 <!-- Cute custom animated gif -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQybzc0c3I0eW1seHB0NTFuaHpibnNsbHVwZHJkcXptMXZ6Y3FuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="800" height="auto" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQybzc0c3I0eW1seHB0NTFuaHpibnNsbHVwZHJkcXptMXZ6Y3FuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="800" height="300" />
 </p>
 
 
